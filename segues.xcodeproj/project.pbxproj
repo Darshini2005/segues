@@ -15,6 +15,8 @@
 		BD74C144288084F800A7EA8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD74C143288084F800A7EA8B /* Assets.xcassets */; };
 		BD74C147288084F800A7EA8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD74C145288084F800A7EA8B /* LaunchScreen.storyboard */; };
 		BD74C14F288085EC00A7EA8B /* secondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */; };
+		BD74C1512880B79000A7EA8B /* thirdScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD74C1502880B79000A7EA8B /* thirdScreenViewController.swift */; };
+		BD74C1532880BF6700A7EA8B /* foutthScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD74C1522880BF6700A7EA8B /* foutthScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		BD74C146288084F800A7EA8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD74C148288084F800A7EA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreenViewController.swift; sourceTree = "<group>"; };
+		BD74C1502880B79000A7EA8B /* thirdScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdScreenViewController.swift; sourceTree = "<group>"; };
+		BD74C1522880BF6700A7EA8B /* foutthScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = foutthScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				BD74C139288084F600A7EA8B /* SceneDelegate.swift */,
 				BD74C13B288084F600A7EA8B /* ViewController.swift */,
 				BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */,
+				BD74C1502880B79000A7EA8B /* thirdScreenViewController.swift */,
+				BD74C1522880BF6700A7EA8B /* foutthScreenViewController.swift */,
 				BD74C13D288084F600A7EA8B /* Main.storyboard */,
 				BD74C143288084F800A7EA8B /* Assets.xcassets */,
 				BD74C145288084F800A7EA8B /* LaunchScreen.storyboard */,
@@ -148,7 +154,9 @@
 				BD74C138288084F600A7EA8B /* AppDelegate.swift in Sources */,
 				BD74C13A288084F600A7EA8B /* SceneDelegate.swift in Sources */,
 				BD74C14F288085EC00A7EA8B /* secondScreenViewController.swift in Sources */,
+				BD74C1512880B79000A7EA8B /* thirdScreenViewController.swift in Sources */,
 				BD74C142288084F600A7EA8B /* segues.xcdatamodeld in Sources */,
+				BD74C1532880BF6700A7EA8B /* foutthScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
