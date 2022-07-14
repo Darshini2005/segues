@@ -14,6 +14,7 @@
 		BD74C142288084F600A7EA8B /* segues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD74C140288084F600A7EA8B /* segues.xcdatamodeld */; };
 		BD74C144288084F800A7EA8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD74C143288084F800A7EA8B /* Assets.xcassets */; };
 		BD74C147288084F800A7EA8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD74C145288084F800A7EA8B /* LaunchScreen.storyboard */; };
+		BD74C14F288085EC00A7EA8B /* secondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD74C143288084F800A7EA8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD74C146288084F800A7EA8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD74C148288084F800A7EA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BD74C137288084F600A7EA8B /* AppDelegate.swift */,
 				BD74C139288084F600A7EA8B /* SceneDelegate.swift */,
 				BD74C13B288084F600A7EA8B /* ViewController.swift */,
+				BD74C14E288085EC00A7EA8B /* secondScreenViewController.swift */,
 				BD74C13D288084F600A7EA8B /* Main.storyboard */,
 				BD74C143288084F800A7EA8B /* Assets.xcassets */,
 				BD74C145288084F800A7EA8B /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				BD74C13C288084F600A7EA8B /* ViewController.swift in Sources */,
 				BD74C138288084F600A7EA8B /* AppDelegate.swift in Sources */,
 				BD74C13A288084F600A7EA8B /* SceneDelegate.swift in Sources */,
+				BD74C14F288085EC00A7EA8B /* secondScreenViewController.swift in Sources */,
 				BD74C142288084F600A7EA8B /* segues.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
