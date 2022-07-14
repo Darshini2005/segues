@@ -57,7 +57,9 @@
                                     </attributedString>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="drd-pA-G7K" kind="push" id="Jho-aT-SHR"/>
+                                    <segue destination="drd-pA-G7K" kind="popoverPresentation" popoverAnchorView="Mu0-oY-quV" id="V13-Gn-0gf">
+                                        <popoverArrowDirection key="popoverArrowDirection" up="YES" down="YES" left="YES" right="YES"/>
+                                    </segue>
                                 </connections>
                             </button>
                         </subviews>
