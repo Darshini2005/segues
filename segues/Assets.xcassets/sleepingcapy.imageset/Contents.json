@@ -1,11 +1,6 @@
 {
   "images" : [
     {
-      "filename" : "sleepingcapy.jpeg",
-      "idiom" : "universal",
-      "scale" : "1x"
-    },
-    {
       "idiom" : "universal",
       "scale" : "1x"
     },
